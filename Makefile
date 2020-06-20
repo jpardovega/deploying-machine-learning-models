@@ -1,5 +1,5 @@
 NAME=udemy-ml-api-jpv
-COMMIT_ID=$(shell git rev-parse HEAD)
+COMMIT_ID="latest"
 
 
 build-ml-api-heroku:
